@@ -21,8 +21,25 @@ public class aula05operadoresaritimeticos {
 		
 		float resto = num1 % num2;
 		System.out.println(resto);
-
-	
+		
+		System.out.println("");
+		   
+		int numero = 2;
+		System.out.println(++numero);
+		
+		numero = numero = + 1;
+		System.out.println(numero);
+		
+		
+		System.out.println(--numero);
+		
+		numero += 2;
+		System.out.println(numero);
+		
+		
+		
+		
+		
 		
 	}
 
